@@ -1,0 +1,6 @@
+CHECKSUM, /Users/user/Desktop/example.dat 
+WORDCOUNT, /Users/user/Desktop/countthewords.txt 
+WORDFREQ, /Users/user/Desktop/findMyWords.txt, hell00 
+WORDFREQ, /Users/user/Desktop/findMyWords.txt, world55 
+CHECKSUM, /Users/user/Desktop/countthewords.txt
+WORDCOUNT, /Users/user/Desktop/findMyWords.txt
